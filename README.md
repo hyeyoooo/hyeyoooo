@@ -33,10 +33,12 @@
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<br><br><br>
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyoooo&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
+
+<br><br><br>
 ---
 
 <br>
