@@ -7,7 +7,7 @@
  <a href="https://hyeyoooo.tistory.com/"><img src="https://img.shields.io/badge/TISTORY BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a><br>
 
 
-<div align="left">
+<div align="center">
   
 
 
@@ -32,7 +32,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
 
-<div align="left">
+<div align="center">
 
 <br><br><br>
 
@@ -40,6 +40,6 @@
 
 <br>
 
-<div align="center>
+<div align="center">
 
 &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=12qwpo50)](https://solved.ac/12qwpo50/)
