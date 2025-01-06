@@ -33,8 +33,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
 
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyoooo&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 <div align="left">
 
 <br><br><br>
