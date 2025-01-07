@@ -21,7 +21,7 @@
 
  <br>
 
- <div align="center">
+ <div align="left">
 
 ### MAIN STACK🛠️
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -34,7 +34,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
 
-<div align="center">
+<div align="right">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyoooo)](https://github.com/anuraghazra/github-readme-stats)
 
